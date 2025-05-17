@@ -1,0 +1,17 @@
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.csproj.AssemblyReference.cache
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.AssemblyInfoInputs.cache
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.AssemblyInfo.cs
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.csproj.CoreCompileInputs.cache
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.deps.json
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.dll
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_Aplicaciones.pdb
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_dominio.dll
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_repositorio.dll
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_dominio.pdb
+C:\gym_proyec_final\Lib_Aplicaciones\bin\Debug\net8.0\Lib_repositorio.pdb
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Apli.BA422756.Up2Date
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.dll
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\refint\Lib_Aplicaciones.dll
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\Lib_Aplicaciones.pdb
+C:\gym_proyec_final\Lib_Aplicaciones\obj\Debug\net8.0\ref\Lib_Aplicaciones.dll

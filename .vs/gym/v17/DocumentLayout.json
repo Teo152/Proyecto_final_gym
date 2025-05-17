@@ -1,0 +1,1128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gym_proyec_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\asp_servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\asp_servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\planes_sedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\planes_sedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\planescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\planescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\sedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\sedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\estados_inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\estados_inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\estados_pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\estados_pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\observacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\observacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\observaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\observaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iestados_pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iestados_pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\inscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\inscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iinscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iinscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\planesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\planesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iplanes_sedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iplanes_sedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iplanesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iplanesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|c:\\gym_proyec_final\\lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|solutionrelative:lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|c:\\gym_proyec_final\\lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\planes_sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\planes_sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\estados_inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estados_inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\estados_pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estados_pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\empleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\empleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\planes_sedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\planes_sedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\personasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\personasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\observacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\observacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\estados_pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\estados_pagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\estados_inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\estados_inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\implementaciones\\sedesaplicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\sedesaplicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iempleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iempleadosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|c:\\gym_proyec_final\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECA613F7-D34A-433C-B682-E2DA5360F2AB}|Lib_dominio\\Lib_dominio.csproj|solutionrelative:lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|c:\\gym_proyec_final\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iestados_inscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iestados_inscripcionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\isedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\isedesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\iobservacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iobservacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\sedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\sedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\estados_inscripcionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\estados_inscripcionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\gym_proyec_final\\secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secretos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|c:\\gym_proyec_final\\asp_servicio\\asp_servicio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BA9BE782-CD9A-42A5-8A75-6349C93246E3}|Asp_servicio\\Asp_servicio.csproj|solutionrelative:asp_servicio\\asp_servicio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\ipagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\ipagosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\pagosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\pagosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|c:\\gym_proyec_final\\lib_repositorio\\lib_repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88F3E1C2-929F-40F0-B9A4-6A273D580DAA}|Lib_repositorio\\Lib_repositorio.csproj|solutionrelative:lib_repositorio\\lib_repositorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\estado_pagosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\estado_pagosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\inscripcionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\inscripcionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|c:\\gym_proyec_final\\lib_aplicaciones\\interfaces\\ipersonasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6150224-3D1B-409D-BB1F-34B7809531A3}|Lib_Aplicaciones\\Lib_Aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\ipersonasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\observacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\observacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\planes_sedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\planes_sedesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\personasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\personasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\repositorio\\planesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\planesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|c:\\gym_proyec_final\\ut_presentacion\\ut_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC133F09-D9C0-4D23-9A55-1DC28B8E648F}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\ut_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:18:22.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:05:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAhwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:20:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "Lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:08:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asp_servicio.csproj",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Asp_servicio.csproj",
+              "RelativeDocumentMoniker": "Asp_servicio\\Asp_servicio.csproj",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Asp_servicio.csproj",
+              "RelativeToolTip": "Asp_servicio\\Asp_servicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T21:09:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Asp_servicio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Asp_servicio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T21:06:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Planes_SedesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Planes_SedesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\Planes_SedesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Planes_SedesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\Planes_SedesController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:08:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlanesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PlanesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\PlanesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PlanesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\PlanesController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:58:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SedesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\SedesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\SedesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\SedesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\SedesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:21:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estados_InscripcionesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Estados_InscripcionesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\Estados_InscripcionesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Estados_InscripcionesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\Estados_InscripcionesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:59:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estados_pagosController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Estados_pagosController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\Estados_pagosController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\Estados_pagosController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\Estados_pagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:00:51.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:06:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObservacionesController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\ObservacionesController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\ObservacionesController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\ObservacionesController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\ObservacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:07:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Asp_servicio\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:10:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "Asp_servicio\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:19:13.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Inscripciones.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Inscripciones.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Inscripciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:00:29.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Observaciones.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Observaciones.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Observaciones.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Observaciones.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Observaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:18:35.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEstados_pagosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEstados_pagosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IEstados_pagosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEstados_pagosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IEstados_pagosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:04:18.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InscripcionesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\InscripcionesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\InscripcionesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\InscripcionesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\InscripcionesAplicacion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:45:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IInscripcionesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IInscripcionesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IInscripcionesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IInscripcionesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IInscripcionesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:16:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlanesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PlanesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\PlanesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PlanesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\PlanesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:18:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPlanes_SedesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPlanes_SedesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IPlanes_SedesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPlanes_SedesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IPlanes_SedesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:07:43.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPlanesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPlanesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IPlanesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPlanesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IPlanesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:01:04.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "Lib_repositorio\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "Lib_repositorio\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:32:52.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_repositorio\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "Lib_repositorio\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_repositorio\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "Lib_repositorio\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:29:59.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Planes_Sedes.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Planes_Sedes.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Planes_Sedes.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Planes_Sedes.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Planes_Sedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:15:55.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Planes.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Planes.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Planes.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Planes.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Planes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:38:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Personas.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Personas.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Personas.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Personas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:46:34.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Pagos.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Pagos.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Pagos.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:55:50.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Estados_Inscripciones.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Estados_Inscripciones.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Estados_Inscripciones.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Estados_Inscripciones.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Estados_Inscripciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:59:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Estados_pagos.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Estados_pagos.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Estados_pagos.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Estados_pagos.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Estados_pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:42:20.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sedes.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Sedes.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Sedes.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Sedes.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Sedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:57:26.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Empleados.cs",
+              "RelativeDocumentMoniker": "Lib_dominio\\Entidades\\Empleados.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Entidades\\Empleados.cs",
+              "RelativeToolTip": "Lib_dominio\\Entidades\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:09:59.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmpleadosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:15:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Startup.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Startup.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Startup.cs",
+              "RelativeToolTip": "Asp_servicio\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:14:33.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Program.cs",
+              "RelativeDocumentMoniker": "Asp_servicio\\Program.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Program.cs",
+              "RelativeToolTip": "Asp_servicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:15:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Planes_SedesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Planes_SedesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\Planes_SedesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Planes_SedesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\Planes_SedesAplicacion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:41:03.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PersonasAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PersonasAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\PersonasAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PersonasAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\PersonasAplicacion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:42:01.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PagosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PagosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\PagosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\PagosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\PagosAplicacion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:33:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ObservacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\ObservacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\ObservacionesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\ObservacionesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\ObservacionesAplicacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwDUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:51:00.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Estados_pagosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Estados_pagosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\Estados_pagosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Estados_pagosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\Estados_pagosAplicacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:22:18.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Estados_Inscripciones.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Estados_Inscripciones.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\Estados_Inscripciones.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\Estados_Inscripciones.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\Estados_Inscripciones.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:29:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SedesAplicaciones.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\SedesAplicaciones.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Implementaciones\\SedesAplicaciones.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Implementaciones\\SedesAplicaciones.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Implementaciones\\SedesAplicaciones.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:55:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEmpleadosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:13:59.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Lib_dominio.csproj",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_dominio\\Lib_dominio.csproj",
+              "RelativeDocumentMoniker": "Lib_dominio\\Lib_dominio.csproj",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_dominio\\Lib_dominio.csproj",
+              "RelativeToolTip": "Lib_dominio\\Lib_dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T02:30:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "script.sql",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_repositorio\\script.sql",
+              "RelativeDocumentMoniker": "Lib_repositorio\\script.sql",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_repositorio\\script.sql",
+              "RelativeToolTip": "Lib_repositorio\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-31T03:00:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IEstados_InscripcionesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEstados_InscripcionesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IEstados_InscripcionesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IEstados_InscripcionesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IEstados_InscripcionesAplicacion.cs",
+              "ViewState": "AgIAAAIAAAAgbiFf+NkqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:05:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IObservacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IObservacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IObservacionesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IObservacionesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IObservacionesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:14:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SedesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\SedesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\SedesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\SedesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\SedesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:26:50.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ISedesAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\ISedesAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\ISedesAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\ISedesAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\ISedesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:51:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Estados_InscripcionesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Estados_InscripcionesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\Estados_InscripcionesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Estados_InscripcionesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\Estados_InscripcionesPrueba.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:02:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:51:44.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "secretos.json",
+              "DocumentMoniker": "C:\\gym_proyec_final\\secretos.json",
+              "RelativeDocumentMoniker": "secretos.json",
+              "ToolTip": "C:\\gym_proyec_final\\secretos.json",
+              "RelativeToolTip": "secretos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T21:56:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Asp_servicio.http",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Asp_servicio\\Asp_servicio.http",
+              "RelativeDocumentMoniker": "Asp_servicio\\Asp_servicio.http",
+              "ToolTip": "C:\\gym_proyec_final\\Asp_servicio\\Asp_servicio.http",
+              "RelativeToolTip": "Asp_servicio\\Asp_servicio.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-29T21:06:12.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IPagosAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPagosAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IPagosAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPagosAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IPagosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:10:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PagosPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PagosPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\PagosPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PagosPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\PagosPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:01:54.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EntidadesNucleo.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAvwE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:41:41.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Lib_Aplicaciones.csproj",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "RelativeToolTip": "Lib_Aplicaciones\\Lib_Aplicaciones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T13:47:17.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Lib_repositorio.csproj",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_repositorio\\Lib_repositorio.csproj",
+              "RelativeDocumentMoniker": "Lib_repositorio\\Lib_repositorio.csproj",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_repositorio\\Lib_repositorio.csproj",
+              "RelativeToolTip": "Lib_repositorio\\Lib_repositorio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T02:59:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Estado_pagosPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Estado_pagosPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\Estado_pagosPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Estado_pagosPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\Estado_pagosPrueba.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:47:11.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InscripcionesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\InscripcionesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\InscripcionesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\InscripcionesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\InscripcionesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:12:38.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IPersonasAplicacion.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPersonasAplicacion.cs",
+              "RelativeDocumentMoniker": "Lib_Aplicaciones\\Interfaces\\IPersonasAplicacion.cs",
+              "ToolTip": "C:\\gym_proyec_final\\Lib_Aplicaciones\\Interfaces\\IPersonasAplicacion.cs",
+              "RelativeToolTip": "Lib_Aplicaciones\\Interfaces\\IPersonasAplicacion.cs",
+              "ViewState": "AgIAAAEAAAAAaR8kA+oAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:09:22.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Planes_SedesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Planes_SedesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\Planes_SedesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\Planes_SedesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\Planes_SedesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:23:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ObservacionesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\ObservacionesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\ObservacionesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\ObservacionesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\ObservacionesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:22:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PersonasPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PersonasPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\PersonasPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PersonasPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\PersonasPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:52:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PLanesPrueba.cs",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PLanesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\PLanesPrueba.cs",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\Repositorio\\PLanesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\PLanesPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:54:35.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ut_presentacion.csproj",
+              "DocumentMoniker": "C:\\gym_proyec_final\\ut_presentacion\\ut_presentacion.csproj",
+              "RelativeDocumentMoniker": "ut_presentacion\\ut_presentacion.csproj",
+              "ToolTip": "C:\\gym_proyec_final\\ut_presentacion\\ut_presentacion.csproj",
+              "RelativeToolTip": "ut_presentacion\\ut_presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T03:38:41.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
